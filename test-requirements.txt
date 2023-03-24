@@ -1,0 +1,1 @@
+odoo-addon-account_credit_control @git+https://github.com/OCA/credit-control@refs/pull/268/head#subdirectory=setup/account_credit_control
