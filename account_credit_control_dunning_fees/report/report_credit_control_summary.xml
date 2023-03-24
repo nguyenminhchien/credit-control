@@ -3,6 +3,7 @@
   <template
         id="report_credit_control_summary_document_fees"
         inherit_id="account_credit_control.report_credit_control_summary_document"
+        priority="100"
     >
     <xpath expr="//table[@id='summary_table']/thead/tr/th[last()]" position="before">
       <th class="text-right">Fees</th>
